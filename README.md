@@ -1,2 +1,4 @@
 Customer-focused fintech professional with experience supporting merchants, resolving payment system issues, and driving digital adoption in fast-paced financial technology environments. Currently a Business Relationship Manager at Moneipoint, providing operational and technical support for POS terminals, SME loans, and digital financial products.
 Foundation in Microsoft Azure cloud computing,   including knowledge of IAAS, PAAS, SAAS,  virtual machines and resource management.  Skilled in customer success, merchant support, POS troubleshooting, CRM systems, and data-driven reporting. Seeking remote fintech roles or cloud computing internships  where I can leverage fintech knowledge and cloud fundamentals to improve customer experiences and operational efficiency.
+
+https://docs.google.com/document/d/11w1KAWcrawXHZ5n-vmLhDS2XI59d7XLN/edit?usp=drivesdk&ouid=111132770656751329595&rtpof=true&sd=true
